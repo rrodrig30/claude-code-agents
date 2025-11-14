@@ -7,7 +7,7 @@ A curated collection of specialized Claude Code agents for AI/ML development, da
 
 ## 🎯 Overview
 
-This repository contains **14 professional-grade agents** designed to enhance Claude Code's capabilities across multiple domains:
+This repository contains **15 professional-grade agents** designed to enhance Claude Code's capabilities across multiple domains:
 
 - **AI/ML Architecture** - Design GraphRAG systems, optimize embeddings, plan ML pipelines
 - **Database Architecture** - Neo4j schema design, vector-graph hybrid systems, query optimization
@@ -64,6 +64,7 @@ cp claude-code-agents/agents/*.md ~/.claude/agents/
 | **gui-designer** | UI/UX design and accessibility | DuckDuckGo |
 | **medical-imaging-expert** | Medical imaging and DICOM processing | - |
 | **task-completion-monitor** | Ensures multi-step tasks complete fully | - |
+| **bug-collector** | Analyzes and documents bugs for future prevention | Neo4j (optional) |
 
 ## 🔧 MCP Tools Setup
 

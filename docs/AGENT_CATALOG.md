@@ -258,6 +258,11 @@ DICOM processing, medical imaging, 3D reconstruction.
 **MCP**: None
 Ensures multi-step tasks complete without manual intervention.
 
+### bug-collector
+**Category**: Code Quality
+**MCP**: Neo4j (optional), GitHub (optional)
+Analyzes and documents bugs after they are fixed, building a knowledge base of bug patterns for future prevention through static analysis.
+
 ---
 
 ## 🎯 Quick Selection Guide
@@ -270,6 +275,7 @@ Ensures multi-step tasks complete without manual intervention.
 - Review backend code? → **backend-infrastructure-expert**
 - Design system architecture? → **chief-software-architect**
 - Optimize RAG retrieval? → **neo4j-chunking-strategist**
+- Document and prevent bugs? → **bug-collector**
 
 ---
 
